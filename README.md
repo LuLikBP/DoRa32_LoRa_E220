@@ -2,7 +2,7 @@
 
 ![image](https://github.com/LuLikBP/DoRa32_LoRa_E220/assets/40739802/08f90480-5b7f-4da3-a7c9-0651953c5f40)
 
-Hi!
+**Hi!**
 
 This is a repository with data for the production of the DoRa32 debugging board, and documentation on LoRa technology is also collected here
 Examples and documentation for using the LoRa module
