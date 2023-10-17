@@ -7,15 +7,23 @@ Hi!
 This is a repository with data for the production of the DoRa32 debugging board, and documentation on LoRa technology is also collected here
 Examples and documentation for using the LoRa module
 
+For more convenient navigation, use the headers:
+1. Which debugging boards are better to use?
+2. Test results
+3. What is DoRa32?
+4. How to produce DoRa32 board
+5. Useful links
+   
+# Which debugging boards are better to use?
 
 
-#DoRa32
+# DoRa32
 
 
 
 
 
-# Useful links for LoRa:
+# Useful links:
 
 https://github.com/xreef/EByte_LoRa_E220_Series_Library
 
