@@ -1,4 +1,4 @@
-# LoRa
+# DoRa32_LoRa_E220
 
 ![image](https://github.com/LuLikBP/DoRa32_LoRa_E220/assets/40739802/08f90480-5b7f-4da3-a7c9-0651953c5f40)
 
